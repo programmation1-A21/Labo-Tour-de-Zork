@@ -5,10 +5,10 @@
 * 2. La création du personnage commence par un nom, puis 3 questions pour déterminer ses statistiques
 * 3. Résumé du résultat de la cération
 * 
-* Création : 21/08/16
+* Création : 21-08-16
 * Par : Frédérik Taleb
 *
-* Modification: 21/08/25
+* Modification: 21-08-25
 * Par : Frédérik Taleb
 */
 using System;
